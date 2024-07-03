@@ -23,13 +23,13 @@ const Navbar = () => {
       <ul
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 z-[1] mt-3 p-2 shadow rounded-2xl">
-        <li><a>Item 1</a></li>
-        <li><a>Item 2</a></li>
-        <li><a>Item 3</a></li>
-        <li><a>Item 4</a></li>
+        <li><a>Skills</a></li>
+        <li><a>Project</a></li>
+        <li><a>About Me</a></li>
+        <li><a>Resume</a></li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl"></a>
+    <a className="btn btn-ghost text-xl">Juwel</a>
   </div>
   {/* <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
